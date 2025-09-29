@@ -1,9 +1,9 @@
 body {
-    background: #cdcccc;
+    background-color: #FFFDD0; 
     color: black;
-    font-family: Georgia, serif; 
-    margin: 0; 
-    padding: 50px; 
+    font-family: Georgia, serif;
+    margin: 0;
+    padding: 50px;
 }
 
 h1 {
@@ -12,8 +12,15 @@ h1 {
     font-weight: bold;
 }
 
+p {
+    line-height: 1.6;
+    text-align: justify;
+    max-width: 800px;
+    margin: 20px auto;
+}
+
 img {
-    display: block; 
+    display: block;
     width: 400px;
     margin: 20px auto;
     border: 2px solid brown;
